@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ReflexChecker</string>
+    <string name="instructions">This App tests your reflexes. After you press the Start button you are presented with two tasks and a scrollable view that contains alternating images and checkboxes. When finished the tasks, click the Done button.</string>
+    <string name="Button">Start</string>
+    <string name="task_1">Task 1 : </string>
+    <string name="task_2">Task 2 : </string>
+    <string name="image_spacer">Image Spacer</string>
+    <string name="Checkbox_1">Task 1:</string>
+    <string name="Checkbox_2">Task 2:</string>
+    <string name="Checkbox_3">Task 1:</string>
+    <string name="done">Done</string>
+
+    <string-array name="task_1_description">
+
+        <item>Select All drinks</item>
+        <item>Deselect All drinks</item>
+        <item>Select one drink</item>
+
+    </string-array>
+
+    <string-array name="task_2_description">
+
+        <item>Select All fruits</item>
+        <item>Deselect All fruits</item>
+        <item>Select one fruit</item>
+
+    </string-array>
+
+    <string-array name="Fruits">
+
+        <item>Grapes</item>
+        <item>Kiwis</item>
+        <item>Strawberries</item>
+
+    </string-array>
+
+    <string-array name="Drinks">
+
+        <item>Pina colada</item>
+        <item>Ice Milo</item>
+        <item>Blue Lagoon</item>
+
+    </string-array>
+
+</resources>

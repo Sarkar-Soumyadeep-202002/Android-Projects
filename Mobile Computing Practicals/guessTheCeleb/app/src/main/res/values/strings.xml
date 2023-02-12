@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">guessTheCeleb</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">PLAY!</string>
+    <string-array name="spinner_entries">
+
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Expert</item>
+
+    </string-array>
+</resources>
